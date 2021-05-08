@@ -32,9 +32,9 @@ hello(name);
 doubleName(name);
 console.log(name);
 
-let a = 0;
+let b = 0;
 function myFunction2() {
-   let a = 10;
-   return a;
+   let b = 10;
+   return b;
 }
 console.log(myFunction2())
